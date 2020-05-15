@@ -1,4 +1,130 @@
-body {
-    font-family: Arial;
+
+  background {
+    color: white;
+    
+    {
+
+body1 {
+  background-color: rgb(255, 255, 255);
+}
+
+
+    
   }
-  
+
+  div3 {
+   class="form-group";
+   column-count:3;
+
+  }
+
+
+form {
+  div class="form-row align-items-center";
+  div class="col-auto my-1";
+
+
+}
+
+
+
+
+
+background {
+  color: white;
+}
+
+/*** ul,li,container etc.  para  barra navegadora ***/
+
+ul {
+list-style-type: none;
+margin: 0% 0% 0% 0% ;
+padding: 0;
+overflow: hidden;
+background-color: LightSkyBlue;
+}
+
+li {
+float: left;
+}
+
+li a, .dropbtn {
+display: inline-block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+background-color: DodgerBlue;
+}
+
+li.dropdown {
+display: inline-block;
+}
+
+.dropdown-content {
+display: none;
+position: absolute;
+background-color: #f9f9f9;
+min-width: 140px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+}
+
+.dropdown-content a {
+color: DodgerBlue;
+padding: 12px 16px;
+text-decoration: none;
+display: block;
+text-align: left;
+}
+
+.dropdown-content a:hover {background-color: LightSkyBlue;}
+
+.dropdown:hover .dropdown-content {
+display: block;
+}
+
+
+/*** li2  ***/
+
+
+
+
+ul-2 {
+list-style-type: none;
+margin: 0% 0% 0% 0% ;
+padding: 0;
+overflow: hidden;
+background-color: LightSkyBlue;
+}
+
+li-2 {
+
+float: right;
+}
+
+li-2 a, .dropbtn {
+display: inline-block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+
+
+li-2 a:hover, .dropdown:hover .dropbtn {
+background-color: DodgerBlue;
+}
+
+li-2.dropdown {
+display: inline-block;
+}
+
+
+
+/*** Fin Stilo de Navegation bar  ***/
+
